@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="cat_image_gallery">Cat Image Gallery</string>
+    <string-array name="spinner_items">
+        <item>Image 1</item>
+        <item>Image 2</item>
+        <item>Image 3</item>
+    </string-array>
+    <color name="background_color">#C9E5FF</color>
+    <color name="button_text_color">#ffffff</color>
+</resources>
